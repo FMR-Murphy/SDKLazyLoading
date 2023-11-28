@@ -1,0 +1,20 @@
+PODS:
+  - BMKLocationKit (2.0.9)
+  - PromisesObjC (2.3.1)
+
+DEPENDENCIES:
+  - BMKLocationKit (= 2.0.9)
+  - PromisesObjC
+
+SPEC REPOS:
+  trunk:
+    - BMKLocationKit
+    - PromisesObjC
+
+SPEC CHECKSUMS:
+  BMKLocationKit: 29576a1a804c9defaeae258516591eee015a03d6
+  PromisesObjC: c50d2056b5253dadbd6c2bea79b0674bd5a52fa4
+
+PODFILE CHECKSUM: f00baa824dcd429c136323bde8a66cf134accada
+
+COCOAPODS: 1.12.1
